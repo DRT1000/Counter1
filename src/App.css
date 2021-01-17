@@ -1,0 +1,21 @@
+.App {
+  border-width: 2px;
+  border-style: dashed;
+  text-align: center;
+  padding: 10px 10px 10px 10px;
+  margin: 80px 380px 80px 380px;
+  border-color: blue;
+  background-color: aqua;
+  font-size: xx-large;
+}
+
+.maxCount {
+  color: red;
+}
+
+.buttons {
+  background-color: blue;
+  border-color: green;
+  border-width: 5px;
+  border-style: groove;
+}
